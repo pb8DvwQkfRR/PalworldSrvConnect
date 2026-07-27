@@ -1,0 +1,6 @@
+RE-UE4SS/
+build/
+build-*/
+build-tests/
+dist/
+.DS_Store
